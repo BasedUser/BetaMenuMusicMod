@@ -1,0 +1,8 @@
+{
+    "name": "editor-as-menu",
+    "displayName": "Beta Menu Music Mod",
+    "description": "Sets the menu music in Mindustry to the editor music (the way it was in the early v4 beta).",
+    "author": "router aka BasedUser",
+    "minGameVersion": 146,
+    "hidden": true
+}
